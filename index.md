@@ -43,4 +43,4 @@ title: Toka Alokda
 
 *email:* toka(at)uni-bonn.de
 
-[BlueSky](https://bsky.app/profile/astrotoka.bsky.social) | [LinkedIn](https://www.linkedin.com/in/tokaalokda) | [Github](https://github.com/tokaalokda)
+[BlueSky](https://bsky.app/profile/astrotoka.bsky.social) | [LinkedIn](https://www.linkedin.com/in/tokaalokda) | [Github](https://github.com/tokaalokda) | [personal blog for thoughts and poetry](https://singularit.home.blog/)
