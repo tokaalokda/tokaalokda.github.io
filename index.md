@@ -12,9 +12,14 @@ My research focuses on levraging machine learning methods to do Cosmology with t
 ---
 ## Publications
 
+## Publications
+
+*submitted to JCAP and under review*
+
 **[Segmenting proto-halos with vision transformers](https://arxiv.org/abs/2508.00049)**  
-   *Toka Alokda*, Cristiano Porciani. arXiv:2508.00049 (2025)  
-   [![arXiv](https://img.shields.io/badge/arXiv-2508.00049-b31b1b.svg)](https://arxiv.org/abs/2508.00049)
+*Toka Alokda*, Cristiano Porciani. arXiv:2508.00049 (2025)
+
+[*Click here for a ~20 minute Talk summarizing this work*](https://videos.univ-grenoble-alpes.fr/video/33651-2025_07_24_16_11_toka-alokda/)
 
 ---
 
