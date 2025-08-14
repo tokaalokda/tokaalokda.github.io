@@ -1,8 +1,8 @@
-# Hello, I'm Toka Alokda
+# Hello, I'm Toka!
 
-I am a PhD student in the AIfA at the University of Bonn
+I am currently a PhD student in Astrophyscs at the Argelander-Institut für Astronomie, University of Bonn. I am also a member of the IMPRS for Astronomy & Astrophysics, and the Bonn-Cologne Graduate School for Physics and Astronomy (BCGS).
 
-My research focuses on Cosmology with the large-scale structure and machine learning
+My research focuses on levraging machine learning methods to do Cosmology with the large-scale structure.
 
 ---
 
