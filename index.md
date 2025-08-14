@@ -5,6 +5,10 @@ title: Home
 
 # Hello, I'm Toka!
 
+<p align="center">
+  <img src="portrait.jpg" width="200">
+</p>
+
 I am currently doing my PhD in Astrophyscs at the Argelander-Institut für Astronomie, University of Bonn. I am also a member of the IMPRS for Astronomy & Astrophysics, and the Bonn-Cologne Graduate School for Physics and Astronomy (BCGS).
 
 My research focuses on levraging machine learning methods to do Cosmology with the large-scale structure.
