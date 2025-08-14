@@ -13,4 +13,4 @@ My research focuses on levraging machine learning methods to do Cosmology with t
 
 # Contact
 📧 toka(at)uni-bonn.de
-🔗 [LinkedIn](https://www.linkedin.com/in/tokaalokda)
+🔗[BlueSky](https://bsky.app/profile/astrotoka.bsky.social)|[LinkedIn](https://www.linkedin.com/in/tokaalokda)|[Github](https://github.com/tokaalokda)
