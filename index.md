@@ -2,13 +2,11 @@
 layout: default
 title: Home
 ---
+# Hello, I'm Toka! 👋
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
-  <img src="portrait.png" width="150" style="border-radius: 50%; border: 2px solid #ccc;">
-
-  <div>
-    <h1>Hello, I'm Toka! 👋</h1>
+  <div style="flex: 1;">
     <p>
       I am currently doing my PhD in Astrophysics at the Argelander-Institut für Astronomie, University of Bonn. 
       I am also a member of the IMPRS for Astronomy & Astrophysics, and the Bonn-Cologne Graduate School for Physics and Astronomy (BCGS).
@@ -16,6 +14,10 @@ title: Home
     <p>
       My research focuses on leveraging machine learning methods to do Cosmology with the large-scale structure.
     </p>
+  </div>
+
+  <div>
+    <img src="portrait.png" width="200" style="border-radius: 50%; border: 2px solid #ccc;">
   </div>
 
 </div>
