@@ -9,10 +9,10 @@ title: Home
   <div style="flex: 1;">
     <p>
       I am currently doing my PhD in Astrophysics at the Argelander-Institut für Astronomie, University of Bonn. 
-      I am also a member of the IMPRS for Astronomy & Astrophysics, and the Bonn-Cologne Graduate School for Physics and Astronomy (BCGS).
+      I am also a member of the [IMPRS for Astronomy & Astrophysics](https://blog.mpifr-bonn.mpg.de/imprs/), and the Bonn-Cologne Graduate School for Physics and Astronomy ([BCGS](https://www.gradschool.physics.uni-bonn.de/)).
     </p>
     <p>
-      My research focuses on leveraging machine learning methods to do Cosmology with the large-scale structure.
+      My research focuses on leveraging machine learning methods to do Cosmology with the large-scale structure. I am particularly interested in structure formation and new methods to constrain Primordial non-Gaussianity (PnG), as well as new statistical inference methods.
     </p>
   </div>
 
