@@ -1,16 +1,62 @@
-/* custom.css */
-
+/* Hero background */
 .hero {
-  background-image: url('/assets/images/bkg.jpg'); /* path to your image */
+  background-image: url('/assets/images/bkg.jpg'); /* your background image */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 300px; /* adjust as needed */
+  padding: 40px;
+  color: white;
+  position: relative;
 }
 
+/* Optional dark overlay for readability */
+.hero::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background-color: rgba(0,0,0,0.4); /* dark overlay */
+  z-index: 0;
+}
+
+/* Hero content: text and image side by side */
+.hero-content {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  position: relative; /* above overlay */
+  z-index: 1;
+}
+
+/* Left text section */
+.hero-text {
+  flex: 1;
+}
+
+/* Right image section */
+.hero-image img {
+  width: 200px;
+  border-radius: 50%;
+  border: 2px solid #ccc;
+}
+
+/* Text readability */
 .hero h1,
 .hero p {
-  color: white; /* make text readable on your image */
   text-shadow: 1px 1px 2px rgba(0,0,0,0.6);
 }
+
+/* Optional: responsive layout for mobile */
+@media screen and (max-width: 768px) {
+  .hero-content {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .hero-image img {
+    margin-top: 20px;
+  }
+}
+
 
