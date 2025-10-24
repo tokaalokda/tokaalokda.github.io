@@ -31,7 +31,7 @@ title: Toka Alokda
 
 ## Publications
 
-*submitted to JCAP and under review*
+*Accepted for publication in JCAP*
 
 **[Segmenting proto-halos with vision transformers](https://arxiv.org/abs/2508.00049)**  
 *Toka Alokda*, Cristiano Porciani. arXiv:2508.00049 (2025)
