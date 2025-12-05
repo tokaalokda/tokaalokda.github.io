@@ -28,7 +28,7 @@ title: Toka Alokda
 
 ---
 
-<a href="assets/cv.pdf" target="_blank">Find my CV here</a>
+<a href="CV_Dec_2025-Alokda_Toka.pdf" target="_blank">Find my CV here</a>
 
 ---
 
