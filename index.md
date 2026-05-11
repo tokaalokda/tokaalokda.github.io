@@ -11,7 +11,7 @@ title: Toka Alokda
     <p>
       I am currently doing my PhD in Astrophysics at the Argelander-Institut für Astronomie, University of Bonn. 
       I am also a member of the <a href="https://blog.mpifr-bonn.mpg.de/imprs/">IMPRS for Astronomy & Astrophysics</a>, 
-      and the Bonn-Cologne Graduate School for Physics and Astronomy (<a href="https://www.gradschool.physics.uni-bonn.de/">BCGS</a>). My research is funded by the DFG excellence cluster "Our Dynamic Universe".
+      and the Bonn-Cologne Graduate School for Physics and Astronomy (<a href="https://www.gradschool.physics.uni-bonn.de/">BCGS</a>). My research is funded by the <a href="https://dynaverse.astro.uni-koeln.de/">DFG excellence cluster "Our Dynamic Universe"</a>.
     </p>
     <p>
       My research focuses on leveraging machine learning methods to do Cosmology with the large-scale structure. 
