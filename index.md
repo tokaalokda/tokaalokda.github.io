@@ -35,6 +35,7 @@ title: Toka Alokda
 ## Publications
 
 *Submitted*
+
 **[Coverage is not enough: Frequentist tests of simulation-based inference for primordial non-Gaussianity](https://arxiv.org/abs/2605.00980)**
 *Toka Alokda*, Alexander Eggemeier, and Cristiano Porciani arXiv:2605.00980
 
