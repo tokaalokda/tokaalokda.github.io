@@ -6,7 +6,7 @@ title: Toka Alokda
 <div style="text-align: center; margin-bottom: 2rem; font-size: 1.2em; font-weight: bold;">
   <a href="/">Home</a> &nbsp;|&nbsp; 
   <a href="/publications.html">Publications</a> &nbsp;|&nbsp;
-  <a href="/CV_May_2026-Alokda_Toka.pdf" target="_blank">CV</a> &nbsp;|&nbsp; 
+  <a href="/CV_July_2026-Alokda_Toka.pdf" target="_blank">CV</a> &nbsp;|&nbsp; 
   <a href="/about.html">About Me</a>
 </div>
 
