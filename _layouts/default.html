@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+</head>
+<body>
+
+  <!-- Navigation Tabs (Identical to hero.html) -->
+  <nav class="nav-tabs" style="padding: 20px; display: flex; gap: 20px; border-bottom: 1px solid #ccc;">
+    <a href="{{ '/' | relative_url }}">Home</a>
+    <a href="{{ '/publications.html' | relative_url }}">Publications</a>
+    <a href="{{ '/contact.html' | relative_url }}">Contact</a>
+  </nav>
+
+  <!-- Markdown content (No hero bio!) -->
+  <div class="content" style="padding: 20px;">
+    {{ content }}
+  </div>
+
+</body>
+</html>
