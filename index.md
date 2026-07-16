@@ -3,23 +3,11 @@ layout: default
 title: Toka Alokda
 ---
 
-<style>
-  .btn {
-    color: #155799 !important;
-    border-color: #155799 !important;
-    background-color: transparent;
-  }
-  .btn:hover {
-    color: white !important;
-    background-color: #155799 !important;
-  }
-</style>
-
-<div style="text-align: center; margin-bottom: 2rem;">
-  <a href="/" class="btn">Home</a>
-  <a href="/publications.html" class="btn">Publications</a>
-  <a href="/about.html" class="btn">About Me</a>
-  <a href="/CV_May_2026-Alokda_Toka.pdf" target="_blank" class="btn">CV</a>
+<div style="text-align: center; margin-bottom: 2rem; font-size: 1.2em; font-weight: bold;">
+  <a href="/">Home</a> &nbsp;|&nbsp; 
+  <a href="/publications.html">Publications</a> &nbsp;|&nbsp;
+  <a href="/CV_May_2026-Alokda_Toka.pdf" target="_blank">CV</a> &nbsp;|&nbsp; 
+  <a href="/about.html">About Me</a>
 </div>
 
 # Hello, I'm Toka! 👋
