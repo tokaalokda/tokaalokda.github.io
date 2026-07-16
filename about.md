@@ -3,6 +3,18 @@ layout: default
 title: Toka Alokda - About Me
 ---
 
+<style>
+  .btn {
+    color: #155799 !important;
+    border-color: #155799 !important;
+    background-color: transparent;
+  }
+  .btn:hover {
+    color: white !important;
+    background-color: #155799 !important;
+  }
+</style>
+
 <div style="text-align: center; margin-bottom: 2rem;">
   <a href="/" class="btn">Home</a>
   <a href="/publications.html" class="btn">Publications</a>
