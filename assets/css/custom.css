@@ -1,9 +1,6 @@
 /* Hero background */
 .hero {
-  background-image: url('/assets/images/bkg.jpg'); /* your background image */
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
   padding: 40px;
   color: white;
   position: relative;
