@@ -7,10 +7,16 @@
 </head>
 <body>
 
+  <!-- Navigation Tabs -->
+  <nav class="nav-tabs" style="padding: 20px; display: flex; gap: 20px; border-bottom: 1px solid #ccc;">
+    <a href="{{ '/' | relative_url }}">Home</a>
+    <a href="{{ '/publications.html' | relative_url }}">Publications</a>
+    <a href="{{ '/contact.html' | relative_url }}">Contact</a>
+  </nav>
+
   <!-- Hero section -->
   <div class="hero">
     <div class="hero-content">
-
       <!-- Text on the left -->
       <div class="hero-text">
         <h1>Hello, I'm Toka! 👋</h1>
@@ -30,12 +36,11 @@
       <div class="hero-image">
         <img src="{{ '/portrait.png' | relative_url }}" alt="Toka Alokda">
       </div>
-
     </div>
   </div>
 
   <!-- Markdown content below hero -->
-  <div class="content">
+  <div class="content" style="padding: 20px;">
     {{ content }}
   </div>
 
