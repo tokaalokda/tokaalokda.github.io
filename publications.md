@@ -3,12 +3,12 @@ layout: default
 title: Toka Alokda - Publications
 ---
 
-<div style="text-align: center; margin-bottom: 2rem;">
-  <a href="/" class="btn">Home</a>
-  <a href="/research.html" class="btn">Research</a>
-  <a href="/publications.html" class="btn">Publications</a>
-  <a href="/CV_May_2026-Alokda_Toka.pdf" target="_blank" class="btn">CV</a>
-  <a href="/about.html" class="btn">About Me</a>
+<div style="text-align: center; margin-bottom: 2rem; font-size: 1.1em; font-weight: bold;">
+  <a href="/">Home</a> &nbsp;|&nbsp; 
+  <a href="/research.html">Research</a> &nbsp;|&nbsp; 
+  <a href="/publications.html">Publications</a> &nbsp;|&nbsp; 
+  <a href="/CV_May_2026-Alokda_Toka.pdf" target="_blank">CV</a> &nbsp;|&nbsp; 
+  <a href="/about.html">About Me</a>
 </div>
 
 # Publications
