@@ -31,4 +31,4 @@ During my Master's, I focused on applying advanced machine learning methods to c
 
 ### BSc Thesis (2021)
 **A Dark Matter Explanation for the Excess in Galactic Positron Flux**  
-For my undergraduate thesis, I investigated anomalies in cosmic ray measurements. I modeled a scalar TeV dark matter candidate designed with an annihilation cross-section that could account for the specific excess in galactic positron flux observed by the AMS-02 experiment.
+For my undergraduate thesis, I investigated anomalies in cosmic ray measurements. I modeled a scalar TeV dark matter candidate designed with an annihilation cross-section that could account for the specific excess in positron flux observed from our galactic center by the AMS-02 experiment.
