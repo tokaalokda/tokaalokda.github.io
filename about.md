@@ -7,7 +7,7 @@ title: Toka Alokda - About Me
   <a href="/">Home</a> &nbsp;|&nbsp; 
   <a href="/research.html">Research</a> &nbsp;|&nbsp; 
   <a href="/publications.html">Publications</a> &nbsp;|&nbsp; 
-  <a href="/CV_May_2026-Alokda_Toka.pdf" target="_blank">CV</a> &nbsp;|&nbsp; 
+  <a href="/CV_July_2026-Alokda_Toka (1).pdf" target="_blank">CV</a> &nbsp;|&nbsp; 
   <a href="/about.html">About Me</a>
 </div>
 
