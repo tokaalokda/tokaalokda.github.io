@@ -20,7 +20,7 @@ title: Toka Alokda - Research
 ## Bridging the Early and Late Universe with Simulations and Machine Learning
 
 ### 1. Constraining Primordial Non-Gaussianity from the Large-Scale Structure
-Primordial non-Gaussianity (PnG) offers a unique window into the physics of the very early Universe and the mechanics of cosmic inflation. Constraining PnG is a critical goal in modern cosmology, and the Large-Scale Structure (LSS) provides a powerful, three-dimensional canvas to achieve this. However, traditional methods for analyzing the LSS, such as $N$-point statistics, often suffer from the curse of dimensionality. 
+Primordial non-Gaussianity (PNG) offers a unique window into the physics of the very early Universe and the mechanics of cosmic inflation. Constraining PNG is a critical goal in modern cosmology, and the Large-Scale Structure (LSS) provides a powerful, three-dimensional canvas to achieve this. However, traditional methods for analyzing the LSS, such as $N$-point statistics, often suffer from the curse of dimensionality. 
 
 My research focuses on developing novel summary statistics that surpass these traditional limitations, alongside building reliable and efficient Simulation-Based Inference (SBI) pipelines. A fundamental challenge in cosmology is cosmic variance: while we can simulate countless universe realizations with different cosmologies, we only have one Universe to observe. In my most recent work, we addressed the challenges of this limitation by exploring the robustness of neural SBI to sample noise, utilizing thousands of simulated universes at a fixed cosmology to ensure our inference pipelines are both accurate and resilient.
 
