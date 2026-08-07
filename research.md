@@ -16,9 +16,7 @@ title: Toka Alokda - Research
 </p>
 
 ---
-<div style="text-align: center;">
-## Exploring the threads between the Early and the Late Universe with Simulations and Machine Learning
-</div>
+<h1 align="center">Exploring the threads between the Early and the Late Universe with Simulations and Machine Learning</h1>
 
 ### 1. Constraining Primordial Non-Gaussianity from the Large-Scale Structure
 Primordial non-Gaussianity (PNG) offers a unique window into the physics of the very early Universe and the mechanics of cosmic inflation. Constraining PNG is a critical goal in modern cosmology, and the Large-Scale Structure (LSS) provides a powerful, three-dimensional canvas to achieve this. However, traditional methods for analyzing the LSS, such as $N$-point statistics, often suffer from the curse of dimensionality. 
