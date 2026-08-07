@@ -18,5 +18,3 @@ My name is Toka (which is also the [Albanian name of the Earth](https://sq.wikip
 I share my birthday with Egyptian physics icon [Sameera Moussa](https://en.wikipedia.org/wiki/Sameera_Moussa), and my favorite spaces --in no particular order-- are Fourier space, and, of course, outer space!
 
 When I am not doing science I am also a singer, and I like to write, paint, learn to play musical instruments, and go up in some hills or mountains to hike.:)
-
-My pronouns are She/They.
