@@ -24,7 +24,9 @@ Primordial non-Gaussianity (PNG) offers a unique window into the physics of the 
 
 My research focuses on developing novel summary statistics that surpass these traditional limitations, alongside building reliable and efficient Simulation-Based Inference (SBI) pipelines. A fundamental challenge in cosmology is cosmic variance: while we can simulate countless universe realizations with different cosmologies, we only have one Universe to observe. In my most recent work, we addressed the challenges of this limitation by exploring the robustness of neural SBI to sample noise, utilizing thousands of simulated universes at a fixed cosmology to ensure our inference pipelines are both accurate and resilient.
 
-<img src="CrystalBall_FrequentistTestsForSBI.png" alt="Artistic depiction of many cosmological simulation boxes in a fortune teller's crystal ball; a metaphor for the magic computers allow us to achieve by simulating many universes of different or identical cosmologies." style="width:20%; display:block; margin: 1rem auto;">
+<div style="text-align: center;">
+  <img src="CrystalBall_FrequentistTestsForSBI.png" alt="Artistic depiction of many cosmological simulation boxes in a fortune teller's crystal ball; a metaphor for the magic computers allow us to achieve by simulating many universes of different or identical cosmologies." style="width:20%; display:block; margin: 1rem auto;">
+</div>
 
 
 ### 2. Cosmological Structure Formation
@@ -32,7 +34,9 @@ One of the most complex questions in cosmology is understanding the highly non-l
 
 Beyond simply achieving high predictive accuracy, I am deeply interested in the interpretability of these deep learning models within the framework of established physical theories. What are the deciding factors and primary physical influences driving halo formation? By answering these questions, we can bridge the gap between black-box algorithms and theoretical physics, utilizing this new technology to generate the fast, reliable mock catalogs that are essential for next-generation cosmological surveys.
 
-<img src="Structure_Formation_diagram.png" alt="Diagrammatic representation for the use of deep neural networks to predict the positions and sizes of patches that will collapse into dark matter halos from cosmological initial conditions (early-universe simulations)." style="width:30%; display:block; margin: 1rem auto;">
+<div style="text-align: center;">
+  <img src="Structure_Formation_diagram.png" alt="Diagrammatic representation for the use of deep neural networks to predict the positions and sizes of patches that will collapse into dark matter halos from cosmological initial conditions (early-universe simulations)." style="width:30%; display:block; margin: 1rem auto;">
+</div>
 
 ---
 
