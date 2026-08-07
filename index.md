@@ -23,7 +23,7 @@ title: Toka Alokda
     </p>
     <p>
       My research focuses on leveraging machine learning methods to do Cosmology with the large-scale structure. 
-      I am particularly interested in structure formation and new methods to constrain Primordial non-Gaussianity (PnG), 
+      I am particularly interested in structure formation and new methods to constrain Primordial non-Gaussianity (PNG), 
       as well as new statistical inference methods. 
     </p>
   </div>
