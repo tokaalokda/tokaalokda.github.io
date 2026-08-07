@@ -16,8 +16,9 @@ title: Toka Alokda - Research
 </p>
 
 ---
-
-## Bridging the Early and Late Universe with Simulations and Machine Learning
+<div style="text-align: center;">
+## Exploring the threads between the Early and the Late Universe with Simulations and Machine Learning
+</div>
 
 ### 1. Constraining Primordial Non-Gaussianity from the Large-Scale Structure
 Primordial non-Gaussianity (PNG) offers a unique window into the physics of the very early Universe and the mechanics of cosmic inflation. Constraining PNG is a critical goal in modern cosmology, and the Large-Scale Structure (LSS) provides a powerful, three-dimensional canvas to achieve this. However, traditional methods for analyzing the LSS, such as $N$-point statistics, often suffer from the curse of dimensionality. 
@@ -30,7 +31,7 @@ My research focuses on developing novel summary statistics that surpass these tr
 
 
 ### 2. Cosmological Structure Formation
-One of the most complex questions in cosmology is understanding the highly non-linear relationship between initial density fluctuations and the formation of dark matter halos. Using deep learning methods, I investigate this connection by predicting the positions and masses of proto-halo patches that eventually collapse into dark matter halos directly from $N$-body initial conditions. 
+One of the most complex questions in cosmology is understanding the highly non-linear relationship between initial density fluctuations and the formation of dark matter halos. Using deep learning methods, I investigate this connection by predicting the positions and masses of proto-halo patches that eventually collapse into dark matter halos directly from <p>N</p>-body initial conditions. 
 
 Beyond simply achieving high predictive accuracy, I am deeply interested in the interpretability of these deep learning models within the framework of established physical theories. What are the deciding factors and primary physical influences driving halo formation? By answering these questions, we can bridge the gap between black-box algorithms and theoretical physics, utilizing this new technology to generate the fast, reliable mock catalogs that are essential for next-generation cosmological surveys.
 
