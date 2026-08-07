@@ -11,14 +11,10 @@ title: Toka Alokda - Research
   <a href="/about.html">About Me</a>
 </div>
 
-<p style="text-align: center; font-style: italic; color: #666;">
-  🚧 This page is still under construction 🚧
-</p>
-
 ---
-<h1 align="center">Exploring the threads between the Early and the Late Universe with Simulations and Machine Learning</h1>
+<h2 align="center">Exploring the threads between the Early and the Late Universe with Simulations and Machine Learning</h2>
 
-### 1. Constraining Primordial Non-Gaussianity from the Large-Scale Structure
+### Constraining Primordial Non-Gaussianity from the Large-Scale Structure
 Primordial non-Gaussianity (PNG) offers a unique window into the physics of the very early Universe and the mechanics of cosmic inflation. Constraining PNG is a critical goal in modern cosmology, and the Large-Scale Structure (LSS) provides a powerful, three-dimensional canvas to achieve this. However, traditional methods for analyzing the LSS, such as <i>n</i>-point statistics, often suffer from the curse of dimensionality. 
 
 My research focuses on developing novel summary statistics that surpass these traditional limitations, alongside building reliable and efficient Simulation-Based Inference (SBI) pipelines. A fundamental challenge in cosmology is cosmic variance: while we can simulate countless universe realizations with different cosmologies, we only have one Universe to observe. In my most recent work, we addressed the challenges of this limitation by exploring the robustness of neural SBI to sample noise, utilizing thousands of simulated universes at a fixed cosmology to ensure our inference pipelines are both accurate and resilient.
@@ -28,7 +24,7 @@ My research focuses on developing novel summary statistics that surpass these tr
 </div>
 
 
-### 2. Cosmological Structure Formation
+### Cosmological Structure Formation
 One of the most complex questions in cosmology is understanding the highly non-linear relationship between initial density fluctuations and the formation of dark matter halos. Using deep learning methods, I investigate this connection by predicting the positions and masses of proto-halo patches that eventually collapse into dark matter halos directly from <i>N</i>-body initial conditions. 
 
 Beyond simply achieving high predictive accuracy, I am deeply interested in the interpretability of these deep learning models within the framework of established physical theories. What are the deciding factors and primary physical influences driving halo formation? By answering these questions, we can bridge the gap between black-box algorithms and theoretical physics, utilizing this new technology to generate the fast, reliable mock catalogs that are essential for next-generation cosmological surveys.
@@ -37,9 +33,7 @@ Beyond simply achieving high predictive accuracy, I am deeply interested in the 
   <img src="Structure_Formation_diagram.png" alt="Diagrammatic representation for the use of deep neural networks to predict the positions and sizes of patches that will collapse into dark matter halos from cosmological initial conditions (early-universe simulations)." style="width:50%; display:block; margin: 1rem auto;">
 </div>
 
----
-
-## Decoding Messages from our Galactic Center with Theoretical Particle Physics
+<h2 align="center"> Decoding Messages from our Galactic Center with Theoretical Particle Physics </h2>
 
 Beyond the large-scale structure, my earlier research investigated anomalies in cosmic ray measurements—specifically the enigmatic excess in galactic positron flux observed by the AMS-02 experiment. To interpret these high-energy signals, I modeled a TeV-scale scalar Weakly Interacting Massive Particle (WIMP) dark matter candidate. 
 
