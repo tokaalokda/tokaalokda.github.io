@@ -35,7 +35,7 @@ One of the most complex questions in cosmology is understanding the highly non-l
 Beyond simply achieving high predictive accuracy, I am deeply interested in the interpretability of these deep learning models within the framework of established physical theories. What are the deciding factors and primary physical influences driving halo formation? By answering these questions, we can bridge the gap between black-box algorithms and theoretical physics, utilizing this new technology to generate the fast, reliable mock catalogs that are essential for next-generation cosmological surveys.
 
 <div style="text-align: center;">
-  <img src="Structure_Formation_diagram.png" alt="Diagrammatic representation for the use of deep neural networks to predict the positions and sizes of patches that will collapse into dark matter halos from cosmological initial conditions (early-universe simulations)." style="width:30%; display:block; margin: 1rem auto;">
+  <img src="Structure_Formation_diagram.png" alt="Diagrammatic representation for the use of deep neural networks to predict the positions and sizes of patches that will collapse into dark matter halos from cosmological initial conditions (early-universe simulations)." style="width:50%; display:block; margin: 1rem auto;">
 </div>
 
 ---
