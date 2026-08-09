@@ -22,8 +22,7 @@ title: Toka Alokda
       My research is funded by the <a href="https://dynaverse.astro.uni-koeln.de/">DFG cluster of excellence "Our Dynamic Universe"</a>.
     </p>
     <p>
-      My research focuses on leveraging machine learning methods to do Cosmology with the large-scale structure. 
-      I am particularly interested in structure formation and new methods to constrain Primordial non-Gaussianity (PNG), 
+      My research focuses on using numerical simulations, statistics, and machine learning methods to do Cosmology with the large scale structure. I am particularly interested in structure formation and new methods to constrain Primordial non-Gaussianity (PNG),
       as well as new statistical inference methods. 
     </p>
   </div>
@@ -35,7 +34,7 @@ title: Toka Alokda
 ---
 
 <p style="color: #d35400; font-size: 1.25em; font-weight: bold; font-style: italic;">
-  I will be applying for postdoctoral positions starting this fall, hoping to embark on my next quest in Fall 2027! Please feel free to reach out to discuss potential opportunities or collaborations.
+  I will be applying for postdoctoral positions starting this fall, hoping to embark on my next quest in late 2027/early 2028! Please feel free to reach out to regarding any possible opportunities or collaborations.
 </p>
 
 ---
