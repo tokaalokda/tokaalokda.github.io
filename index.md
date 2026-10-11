@@ -55,7 +55,7 @@ title: Toka Alokda
     <strong style="color: #555;">[Aug. 2026]</strong> My second paper got accepted in A&A! + I presented a poster at the "New Frontiers in Cosmology" conference in A Coruña, got exposed to lots of great science, and saw the total solar eclipse! 
   </li>
   <li style="margin-bottom: 12px;">
-    <strong style="color: #555;">[Apr. 2026] <a href="https://singularit.home.blog/2026/04/29/i-just-submitted-my-second-paper/" target="_blank">I just submitted my second paper!</a> + started my new blog column: <a href="https://singularit.home.blog/taking-up-space-posts-from-the-phd-trenches/" target="_blank">"Taking up space: Life in the PhD trenches"</a>, to document the second leg of my PhD!
+    <strong style="color: #555;">[Apr. 2026]</strong> <a href="https://singularit.home.blog/2026/04/29/i-just-submitted-my-second-paper/" target="_blank">I just submitted my second paper!</a> + started my new blog column: <a href="https://singularit.home.blog/taking-up-space-posts-from-the-phd-trenches/" target="_blank">"Taking up space: Life in the PhD trenches"</a>, to document the second leg of my PhD!
   </li>
 </ul>
 
