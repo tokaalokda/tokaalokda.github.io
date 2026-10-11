@@ -42,6 +42,25 @@ title: Toka Alokda
 
 ---
 
+## News & Updates
+
+<ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
+<li style="margin-bottom: 12px;">
+  <strong style="color: #555;">[Oct. 2026]</strong> 🎉 My recent paper on frequentist tests of SBI for primordial non-Gaussianity is now officially <a href="https://www.aanda.org/articles/aa/full_html/2026/10/aa60668-26/aa60668-26.html" target="_blank">published in A&A</a>!
+</li>
+  <li style="margin-bottom: 12px;">
+    <strong style="color: #555;">[Sep. 2026]</strong> 🗣️ Gave two contributed talks at the <em>2026 AG meeting</em> in Garching bei München + started posting self-made astronomy webcomics on <a href="https://www.instagram.com/tokaalokda/" target="_blank">instagram</a>!
+  </li>
+  <li style="margin-bottom: 12px;">
+    <strong style="color: #555;">[Aug. 2026]</strong> My second paper got accepted in A&A! + I presented a poster at the "New Frontiers in Cosmology" conference in A Coruña, got exposed to lots of great science, and saw the total solar eclipse! 
+  </li>
+  <li style="margin-bottom: 12px;">
+    <strong style="color: #555;">[Apr. 2026] <a href="https://singularit.home.blog/2026/04/29/i-just-submitted-my-second-paper/" target="_blank">I just submitted my second paper!</a> + started my new blog column: <a href="https://singularit.home.blog/taking-up-space-posts-from-the-phd-trenches/" target="_blank">"Taking up space: Life in the PhD trenches"</a>, to document the second leg of my PhD!
+  </li>
+</ul>
+
+---
+
 ## Contact
 
 *email:* toka(at)uni-bonn.de
