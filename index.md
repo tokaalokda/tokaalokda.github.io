@@ -45,9 +45,9 @@ title: Toka Alokda
 ## News & Updates
 
 <ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
-<li style="margin-bottom: 12px;">
+  <li style="margin-bottom: 12px;">
   <strong style="color: #555;">[Oct. 2026]</strong> 🎉 My recent paper on frequentist tests of SBI for primordial non-Gaussianity is now officially <a href="https://www.aanda.org/articles/aa/full_html/2026/10/aa60668-26/aa60668-26.html" target="_blank">published in A&A</a>!
-</li>
+  </li>
   <li style="margin-bottom: 12px;">
     <strong style="color: #555;">[Sep. 2026]</strong> 🗣️ Gave two contributed talks at the <em>2026 AG meeting</em> in Garching bei München + started posting self-made astronomy webcomics on <a href="https://www.instagram.com/tokaalokda/" target="_blank">instagram</a>!
   </li>
