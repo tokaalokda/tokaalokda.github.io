@@ -55,7 +55,7 @@ title: Toka Alokda
     <strong style="color: #555;">[Aug. 2026]</strong> My second paper got accepted in A&A! + I presented a poster at the "New Frontiers in Cosmology" conference in A Coruña, got exposed to lots of great science, and saw the total solar eclipse!
   </li>
   <li style="margin-bottom: 12px;">
-    <strong style="color: #555;">[June 2026]</strong> I presented a talk about my work on SBI for primordial non-Gaussianity in the "Advancing Field-level and Simulation-based Inference for Cosmology" conference, which was held in the Perimeter Institute in Canada. I am grateful for the organizers, who ran a smooth hybrid format and gave me an exception in the last minute to virtually present my work, as my visa was delayed for some weeks.
+    <strong style="color: #555;">[June 2026]</strong> I presented a contributed talk in the "Advancing Field-level and Simulation-based Inference for Cosmology" conference, which was held in the Perimeter Institute in Canada. I am grateful for the organizers, who ran a smooth hybrid format and gave me an exception in the last minute to virtually present my work, as my visa was delayed for some weeks.
   </li>
   <li style="margin-bottom: 12px;">
     <strong style="color: #555;">[May 2026]</strong> I attended the Cosmoverse training school in Sofia, learned the necessary workflow to participate in the Cosmoverse data challenge, and presented a lightning talk on my PhD work!
