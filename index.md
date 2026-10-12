@@ -52,7 +52,14 @@ title: Toka Alokda
     <strong style="color: #555;">[Sep. 2026]</strong> 🗣️ Gave two contributed talks at the <em>2026 AG meeting</em> in Garching bei München + started posting self-made astronomy webcomics on <a href="https://www.instagram.com/tokaalokda/" target="_blank">instagram</a>!
   </li>
   <li style="margin-bottom: 12px;">
-    <strong style="color: #555;">[Aug. 2026]</strong> My second paper got accepted in A&A! + I presented a poster at the "New Frontiers in Cosmology" conference in A Coruña, got exposed to lots of great science, and saw the total solar eclipse! 
+    <strong style="color: #555;">[Aug. 2026]</strong> My second paper got accepted in A&A! + I presented a poster at the "New Frontiers in Cosmology" conference in A Coruña, got exposed to lots of great science, and saw the total solar eclipse!
+  </li>
+    </li>
+  <li style="margin-bottom: 12px;">
+    <strong style="color: #555;">[June 2026]</strong> I presented a talk about my work on SBI for primordial non-Gaussianity in the "Advancing Field-level and Simulation-based Inference for Cosmology" conference, which was held in the Perimeter Institute in Canada. I am grateful for the organizers, who ran a smooth hybrid format and gave me an exception in the last minute to virtually present my work, as my visa was delayed for some weeks.
+  </li>
+  <li style="margin-bottom: 12px;">
+    <strong style="color: #555;">[May 2026]</strong> I attended the Cosmoverse training school in Sofia, learned the necessary workflow to participate in the Cosmoverse data challenge, and presented a lightning talk on my PhD work!
   </li>
   <li style="margin-bottom: 12px;">
     <strong style="color: #555;">[Apr. 2026]</strong> <a href="https://singularit.home.blog/2026/04/29/i-just-submitted-my-second-paper/" target="_blank">I just submitted my second paper!</a> + started my new blog column: <a href="https://singularit.home.blog/taking-up-space-posts-from-the-phd-trenches/" target="_blank">"Taking up space: Life in the PhD trenches"</a>, to document the second leg of my PhD!
