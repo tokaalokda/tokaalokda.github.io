@@ -61,7 +61,7 @@ title: Toka Alokda
     <strong style="color: #555;">[May 2026]</strong> I attended the Cosmoverse training school in Sofia, learned the necessary workflow to participate in the Cosmoverse data challenge, and presented a lightning talk on my PhD work!
   </li>
   <li style="margin-bottom: 12px;">
-    <strong style="color: #555;">[Apr. 2026]</strong> <a href="https://singularit.home.blog/2026/04/29/i-just-submitted-my-second-paper/" target="_blank">I just submitted my second paper!</a> + started my new blog column: <a href="https://singularit.home.blog/taking-up-space-posts-from-the-phd-trenches/" target="_blank">"Taking up space: Life in the PhD trenches"</a>, to document the second leg of my PhD!
+    <strong style="color: #555;">[Apr. 2026]</strong> <a href="https://arxiv.org/abs/2605.00980" target="_blank">I just submitted my second paper!</a> + started my new blog column: <a href="https://singularit.home.blog/taking-up-space-posts-from-the-phd-trenches/" target="_blank">"Taking up space: Life in the PhD trenches"</a>, to document the second leg of my PhD!
   </li>
 </ul>
 
