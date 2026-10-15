@@ -32,7 +32,7 @@ title: Toka Alokda
     </ul>
   </div>
   <div>
-    <img src="portrait.png" width="200" style="border-radius: 50%; border: 2px solid #ccc;">
+    <img src="portrait_sq.jpg" width="200" style="border-radius: 50%; border: 2px solid #ccc;">
   </div>
 </div>
 
