@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Toka Alokda - About Me
+title: Toka Alokda - Trivia
 ---
 
 <div style="text-align: center; margin-bottom: 2rem; font-size: 1.1em; font-weight: bold;">
