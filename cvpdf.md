@@ -7,7 +7,7 @@ title: Toka Alokda - CV
   <a href="/">Home</a> &nbsp;|&nbsp; 
   <a href="/research.html">Research</a> &nbsp;|&nbsp; 
   <a href="/publications.html">Publications</a> &nbsp;|&nbsp; 
-  <a href="/cvpdf.html">CV</a>
+  <a href="/cvpdf.html">CV</a> &nbsp;|&nbsp;
   <a href="/about.html">Trivia</a>
 </div>
 
