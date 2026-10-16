@@ -1,13 +1,20 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 /* Hero background */
-.hero {
-  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+.page-header {
+  background-image: linear-gradient(120deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('{{ "/imagecrpd.png" | relative_url }}');
+  background-size: cover;
+  background-position: center;
   padding: 40px;
   color: white;
   position: relative;
 }
 
 /* Optional dark overlay for readability */
-.hero::before {
+.page-header::before {
   content: "";
   position: absolute;
   top: 0; left: 0;
@@ -38,8 +45,8 @@
 }
 
 /* Text readability */
-.hero h1,
-.hero p {
+.page-header h1,
+.page-header p {
   text-shadow: 1px 1px 2px rgba(0,0,0,0.6);
 }
 
