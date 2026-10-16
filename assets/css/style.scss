@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Target Cayman's native header directly */
+.page-header {
+  background-image: linear-gradient(120deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('{{ "/imagecrpd.png" | relative_url }}') !important;
+  background-size: cover !important;
+  background-position: center !important;
+  padding: 4rem 2rem;
+}
+
+/* Ensure header text remains readable and styled */
+.page-header h1,
+.page-header p,
+.page-header .project-tagline,
+.page-header .project-name {
+  color: #ffffff;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.7);
+}
