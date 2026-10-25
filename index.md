@@ -38,12 +38,6 @@ title: Toka Alokda
 
 ---
 
-<p style="color: #d35400; font-size: 1.25em; font-weight: bold; font-style: italic;">
-  I will be applying for postdoctoral positions starting this fall, hoping to embark on my next quest in late 2027/early 2028! Please feel free to reach out to regarding any possible opportunities or collaborations.
-</p>
-
----
-
 ## News & Updates
 
 <ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
