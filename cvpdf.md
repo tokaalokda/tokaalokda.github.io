@@ -13,8 +13,8 @@ title: Toka Alokda - CV
 
 ---
 
-<iframe src="/CV_Toka_Alokda.pdf" width="100%" height="600px" style="border: none;">
-  <p>Your browser does not support PDFs. You can <a href="/CV_Toka_Alokda.pdf">download the PDF</a>.</p>
+<iframe src="/CV_TA_WEBSITE.pdf" width="100%" height="600px" style="border: none;">
+  <p>Your browser does not support PDFs. You can <a href="/CV_TA_WEBSITE.pdf">download the PDF</a>.</p>
 </iframe>
 
 ---
