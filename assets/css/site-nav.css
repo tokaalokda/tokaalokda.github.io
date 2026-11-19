@@ -1,0 +1,36 @@
+/* Site navigation and one theme switch, shared by every Jekyll page and the exhibit. */
+.cosmos-sitebar, .cosmos-sitebar * { box-sizing:border-box; }
+.cosmos-sitebar {
+  position:sticky; top:0; z-index:5000; width:100%; margin:0; padding:10px clamp(14px,3vw,38px);
+  display:flex; align-items:center; justify-content:space-between; gap:16px;
+  background:rgba(252,254,255,.97); color:#203851;
+  border-bottom:1px solid #cbd8e8; box-shadow:0 4px 16px rgba(8,20,45,.05);
+  backdrop-filter:blur(12px);
+  font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+}
+html[data-site-theme="dark"] .cosmos-sitebar{
+  background:rgba(12,21,36,.97); color:#f0f7ff; border-bottom-color:#33455f;
+}
+.cosmos-brand{display:inline-flex;align-items:center;gap:9px;white-space:nowrap;text-decoration:none!important;
+  font-size:13px;letter-spacing:.07em;font-weight:800;color:inherit!important;line-height:1.2}
+.cosmos-brand svg{width:27px;height:27px;flex:none;color:#2a78a4}
+html[data-site-theme="dark"] .cosmos-brand svg{color:#9cdef1}
+.cosmos-navlinks{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:3px;min-width:0}
+.cosmos-navlinks a{display:inline-flex;align-items:center;padding:7px 9px;border-radius:7px;
+  color:#425b74!important;font-size:13px;font-weight:600;line-height:1.3;text-decoration:none!important;white-space:nowrap}
+.cosmos-navlinks a:hover,.cosmos-navlinks a[aria-current="page"]{background:#e5f0fa;color:#145b87!important}
+html[data-site-theme="dark"] .cosmos-navlinks a{color:#cadbea!important}
+html[data-site-theme="dark"] .cosmos-navlinks a:hover,html[data-site-theme="dark"] .cosmos-navlinks a[aria-current="page"]{
+  background:#21374f;color:#b3f0ff!important}
+.cosmos-theme-btn{display:inline-flex;align-items:center;justify-content:center;gap:7px;flex:none;
+  white-space:nowrap;border-radius:999px;border:1px solid #bdcfdf;
+  padding:9px 12px;background:#f1f6fc;color:#274d6c;cursor:pointer;font-size:13px;font-weight:700;line-height:1.1}
+.cosmos-theme-btn:hover{border-color:#6d9bc3;background:#e0effb}
+.cosmos-theme-btn:focus-visible,.cosmos-navlinks a:focus-visible{outline:3px solid #f0b85a;outline-offset:2px}
+html[data-site-theme="dark"] .cosmos-theme-btn{background:#20334d;border-color:#526780;color:#eff8ff}
+html[data-site-theme="dark"] .cosmos-theme-btn:hover{background:#2e4765}
+@media(max-width:1000px){.cosmos-sitebar{flex-wrap:wrap;gap:8px 14px}
+  .cosmos-navlinks{order:3;width:100%;justify-content:flex-start;overflow-x:auto;flex-wrap:nowrap;padding:1px 0 3px}
+  .cosmos-theme-btn{margin-left:auto}}
+@media(max-width:600px){.cosmos-sitebar{padding:9px 12px}.cosmos-brand{font-size:12px}
+  .cosmos-navlinks a{font-size:12px;padding:8px}.cosmos-theme-btn{font-size:12px}}

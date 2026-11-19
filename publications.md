@@ -3,15 +3,10 @@ layout: default
 title: Toka Alokda - Publications
 ---
 
-<div style="text-align: center; margin-bottom: 2rem; font-size: 1.1em; font-weight: bold;">
-  <a href="/">Home</a> &nbsp;|&nbsp; 
-  <a href="/research.html">Research</a> &nbsp;|&nbsp; 
-  <a href="/publications.html">Publications</a> &nbsp;|&nbsp; 
-  <a href="/cvpdf.html">CV</a> &nbsp;|&nbsp;
-  <a href="/about.html">Trivia</a>
-</div>
+<link rel="stylesheet" href="{{ '/assets/css/site-nav.css' | relative_url }}">
+<script defer src="{{ '/assets/js/site-theme.js' | relative_url }}"></script>
 
----
+
 # Publications
 
 **[Coverage is not enough: Frequentist tests of simulation-based inference for primordial non-Gaussianity](https://www.aanda.org/articles/aa/full_html/2026/10/aa60668-26/aa60668-26.html)**
