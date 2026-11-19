@@ -1,11 +1,8 @@
 ---
 layout: default
+permalink: /publications.html
 title: Toka Alokda - Publications
 ---
-
-<link rel="stylesheet" href="{{ '/assets/css/site-nav.css' | relative_url }}">
-<script defer src="{{ '/assets/js/site-theme.js' | relative_url }}"></script>
-
 
 # Publications
 

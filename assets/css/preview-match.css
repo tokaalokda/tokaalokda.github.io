@@ -1,0 +1,143 @@
+/* Self-contained Cayman-inspired stylesheet for a pre-rendered static mirror.
+   The original Jekyll site uses jekyll-theme-cayman; this reproduces its layout
+   without a Ruby/Jekyll build dependency. */
+*{box-sizing:border-box}
+html{font-family: "Open Sans", "Helvetica Neue",Helvetica,Arial,sans-serif;scroll-behavior:smooth}
+body{padding:0;margin:0;font-size:16px;line-height:1.6;color:#606c71;background:#fff}
+a{color:#1e6bb8;text-decoration:none}a:hover{text-decoration:underline}
+.page-header{text-align:center;color:#fff;background:#155799 linear-gradient(120deg,#155799,#159957);padding:4.75rem 2rem 4.0rem}
+.project-name{font-size:3.25rem;line-height:1.23;margin:0 0 .7rem;font-weight:700}
+.project-tagline{font-size:1.25rem;opacity:.9;margin:0 auto;max-width:52rem;font-weight:400;line-height:1.5}
+.main-content{max-width:64rem;padding:2rem 6rem;margin:0 auto;font-size:1.1rem;word-wrap:break-word}
+.main-content img{max-width:100%;height:auto}
+.main-content h1,.main-content h2,.main-content h3,.main-content h4,.main-content h5,.main-content h6{margin-top:2rem;margin-bottom:1rem;font-weight:400;color:#159957;line-height:1.35}
+.main-content h1{font-size:2.1rem}.main-content h2{font-size:1.7rem}.main-content h3{font-size:1.35rem}
+.main-content p{margin-top:0;margin-bottom:1rem}
+.main-content hr{height:2px;padding:0;margin:1.5rem 0;background-color:#eff0f1;border:0}
+.main-content blockquote{padding:0 1rem;margin-left:0;color:#819198;border-left:.3rem solid #dce6f0}
+.main-content code{padding:2px 4px;font-size:.9rem;background:#f3f6fa;border-radius:.2rem}
+.main-content pre{overflow:auto;padding:.8rem;background:#f3f6fa;border-radius:.3rem}
+.main-content pre code{padding:0;background:transparent}
+.main-content table{display:block;width:100%;overflow:auto;border-collapse:collapse}
+.main-content table th,.main-content table td{padding:.5rem .85rem;border:1px solid #e9ebec}
+.main-content table tr{background:#fff}.main-content table tr:nth-child(2n){background:#f8f8f8}
+.main-content ul,.main-content ol{margin-top:0;margin-bottom:1rem;padding-left:2rem}
+.main-content iframe{max-width:100%;background:#fff}
+.site-footer{padding-top:2rem;margin-top:2rem;border-top:1px solid #eff0f1;font-size:.88rem;color:#819198}
+.site-footer a{color:#1e6bb8}
+@media(max-width:768px){.page-header{padding:3rem 1.3rem}.project-name{font-size:2.25rem}.project-tagline{font-size:1.05rem}.main-content{padding:2rem 1.5rem;font-size:1rem}}
+@media(max-width:480px){.page-header{padding:2.5rem 1rem}.project-name{font-size:1.95rem}.main-content{padding:1.4rem 1rem}.main-content h1{font-size:1.65rem}.main-content h2{font-size:1.4rem}}
+
+/* Target Cayman's native header directly */
+.page-header {
+  background-image: linear-gradient(120deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../../imagecrpd.png") !important;
+  background-size: cover !important;
+  background-position: center !important;
+  padding: 4rem 2rem;
+}
+
+/* Ensure header text remains readable and styled */
+.page-header h1,
+.page-header p,
+.page-header .project-tagline,
+.page-header .project-name {
+  color: #ffffff;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.7);
+}
+
+
+/* Optional night mode for the standard Jekyll/Cayman pages.
+   Default stays the original light mode; the hero image is preserved. */
+html[data-site-theme="dark"] body{
+  background:#0d1421;color:#d5e2f0;
+}
+html[data-site-theme="dark"] .main-content{
+  background:#0d1421;color:#d5e2f0;
+}
+html[data-site-theme="dark"] .main-content h1,
+html[data-site-theme="dark"] .main-content h2,
+html[data-site-theme="dark"] .main-content h3,
+html[data-site-theme="dark"] .main-content h4,
+html[data-site-theme="dark"] .main-content h5,
+html[data-site-theme="dark"] .main-content h6{
+  color:#8ee0cb;
+}
+html[data-site-theme="dark"] .main-content a{color:#98caff}
+html[data-site-theme="dark"] .main-content a:hover{color:#bde6ff}
+html[data-site-theme="dark"] .main-content strong,
+html[data-site-theme="dark"] .main-content b{color:#edf5fd}
+html[data-site-theme="dark"] .main-content hr{border-bottom-color:#354257}
+html[data-site-theme="dark"] .main-content blockquote{color:#b1c3da;border-left-color:#506887}
+html[data-site-theme="dark"] .main-content code,
+html[data-site-theme="dark"] .main-content pre{color:#d8e8f7;background:#1c2940;border-color:#32425d}
+html[data-site-theme="dark"] .main-content table th,
+html[data-site-theme="dark"] .main-content table td{border-color:#41516b}
+html[data-site-theme="dark"] .main-content table tr{background:#101b2b}
+html[data-site-theme="dark"] .main-content table tr:nth-child(2n){background:#1a2840}
+html[data-site-theme="dark"] .site-footer{border-color:#34465d;color:#b7c6da}
+html[data-site-theme="dark"] .site-footer a{color:#9fcfff}
+/* A few existing news dates use inline gray text; override only in dark mode. */
+html[data-site-theme="dark"] .main-content [style*="color: #555"],
+html[data-site-theme="dark"] .main-content [style*="color:#555"]{color:#a9bed6!important}
+.site-theme-control{
+  margin:1.05rem auto 0;display:inline-flex;align-items:center;gap:.55rem;
+  padding:.55rem 1rem;border:1px solid rgba(255,255,255,.75);border-radius:999px;
+  font-size:.93rem;font-weight:600;color:white;background:rgba(7,18,35,.55);
+  cursor:pointer;box-shadow:0 2px 10px rgba(0,0,0,.18);
+}
+.site-theme-control:hover{background:rgba(8,20,39,.83)}
+.site-theme-control:focus-visible{outline:3px solid #f9d97c;outline-offset:4px}
+.site-theme-control .site-theme-symbol{font-size:1.15em;line-height:1}
+html[data-site-theme="dark"] .page-header{
+  /* keep the existing portrait/banner image visible in both themes */
+  box-shadow:inset 0 -30px 40px rgba(0,0,0,.10);
+}
+
+
+/* Offline single-file preview enhancements. */
+:root{--line:#e1e7ed;--nav-bg:#ffffffee;--nav-active:#167b67;--tab-hover:#e9f5f2}
+html[data-site-theme="dark"]{--line:#34465d;--nav-bg:#111c2af2;--nav-active:#8ee0cb;--tab-hover:#253e4d}
+body{min-height:100vh}
+.page-header{padding:3.0rem 1.25rem 2.65rem!important}
+.page-header .project-name{font-size:clamp(2rem,4vw,3.4rem)}
+.page-header .project-tagline{font-size:clamp(1rem,1.55vw,1.18rem)}
+.site-theme-control{margin-top:.9rem}
+.site-nav{position:sticky;top:0;z-index:30;background:var(--nav-bg);border-bottom:1px solid var(--line);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px)}
+.site-nav .nav-inner{max-width:1150px;margin:auto;display:flex;justify-content:center;align-items:center;gap:3px;padding:9px 14px;flex-wrap:wrap}
+.site-nav a{display:inline-flex;align-items:center;justify-content:center;text-align:center;padding:10px 13px;border-radius:9px;font-size:.99rem;color:#49667e;font-weight:650;text-decoration:none;transition:color .2s,background .2s;line-height:1.3;white-space:nowrap}
+.site-nav a:hover,.site-nav a:focus-visible{background:var(--tab-hover);color:var(--nav-active);text-decoration:none}
+.site-nav a[aria-current="page"]{background:var(--tab-hover);color:var(--nav-active)}
+html[data-site-theme="dark"] .site-nav a{color:#b5cae0}
+html[data-site-theme="dark"] .site-nav a[aria-current="page"]{color:#8ee0cb}
+.main-content{max-width:1000px;padding:2.35rem 4rem 3rem;min-height:300px;line-height:1.72}
+.main-content hr{background:var(--line)}
+.main-content h2,.main-content h3{line-height:1.36}
+.site-section[hidden]{display:none!important}
+.site-section{animation:pageIn .28s ease-out}
+@keyframes pageIn{from{opacity:.4;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}
+html[data-site-theme="dark"] .main-content a{color:#9acafa}
+.site-section img{border-radius:7px}
+.offline-note{text-align:center;font-size:12px;opacity:.8;margin-top:.55rem;letter-spacing:.04em}
+.site-footer{max-width:950px;margin:2rem auto 0;text-align:center;padding-bottom:1rem}
+body[data-page="universe"] .page-header{padding:1.15rem 1rem 1rem!important}
+body[data-page="universe"] .page-header .project-name{font-size:1.85rem}
+body[data-page="universe"] .page-header .project-tagline{display:none}
+body[data-page="universe"] .site-theme-control{margin:.5rem 0 0}
+body[data-page="universe"] .main-content{max-width:1600px;padding:.7rem 12px 2rem}
+#simulation-frame{display:block;width:100%;height:1px;border:0;border-radius:16px;background:#080c18;box-shadow:0 8px 30px #00000015}
+@media(max-width:800px){.site-nav .nav-inner{gap:2px;padding:7px 7px}.site-nav a{padding:9px 9px;font-size:.87rem}.main-content{padding:2rem 1.3rem}}
+@media(max-width:700px){
+  #panel-home > div[style*="display: flex"]{flex-direction:column-reverse!important;align-items:center!important;gap:12px!important}
+  #panel-home > div[style*="display: flex"] > div{width:100%!important;flex:none!important}
+  #panel-home > div[style*="display: flex"] img{width:min(210px,65vw)!important;height:auto!important;display:block;margin:0 auto}
+  #panel-research img{min-width:0;max-width:100%}
+  #panel-research img[style*="width:20%"]{width:min(280px,76vw)!important}
+  #panel-research img[style*="width:50%"]{width:min(520px,94vw)!important}
+}
+@media(max-width:500px){.site-nav a{padding:8px 8px;font-size:.81rem}.main-content{padding:1.4rem 1rem}.page-header{padding:2rem 1rem 1.7rem!important}.site-section img{max-width:100%!important}}
+@media(prefers-reduced-motion:reduce){.site-section{animation:none}html{scroll-behavior:auto}}
+
+/* Accessible link focus across all pages */
+.site-nav a:focus-visible, .site-theme-control:focus-visible {outline: 3px solid #f9d97c;outline-offset:2px;}
+/* Ensure page content images remain responsive */
+.main-content img {max-width:100%;height:auto;}

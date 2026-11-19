@@ -3,11 +3,6 @@ layout: default
 title: Toka Alokda
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/site-nav.css' | relative_url }}">
-<script defer src="{{ '/assets/js/site-theme.js' | relative_url }}"></script>
-
-
-
 # Hello, I'm Toka! 👋
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">

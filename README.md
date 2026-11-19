@@ -1,30 +1,10 @@
-# tokaalokda.github.io — Main website (without interactive exhibit)
+# Toka Alokda — website, no exhibit (v19)
 
-This is the GitHub Pages / Jekyll Cayman version of the personal website,
-using the updated shared navigation and optional light/dark mode.
+This package reproduces the **image-backed hero header, rounded navigation tabs, page spacing, and light/dark toggle** of the full interactive offline HTML version. It deliberately excludes the non-Gaussian-universe exhibit and nav link.
 
-## Included pages
-
-- Home (`index.md`)
-- Research (`research.md`)
-- Publications (`publications.md`)
-- CV (`cvpdf.md`)
-- Trivia (`about.md`)
-
-The non-Gaussian universe page, its data files, and links to it have been **deliberately excluded** from this release. The research and publications pages still mention primordial non-Gaussianity as part of the author's research.
-
-## Publish on GitHub Pages
-
-1. Extract this ZIP and upload its **contents** (not the enclosing folder) into the root of your `tokaalokda.github.io` repository.
-2. Commit the changes to your GitHub Pages publishing branch.
-3. Keep the existing GitHub Pages configuration for your repository. The included `_config.yml` uses the Cayman theme.
-
-If an earlier version of the exhibit is already in the repository, delete the `non-gaussian-universe/` folder there as well. Uploading this ZIP alone will not automatically delete files that are already on GitHub.
-
-## Appearance
-
-The normal site appearance is light mode by default. The shared page navigation includes a site-wide light/dark mode switch, and the selection is remembered in supported browsers. The original Cayman banner remains.
-
-## Later: publish the interactive exhibit
-
-When ready, publish the separate complete Jekyll release that includes the non-Gaussian universe page and updated navigation. This interim package does not modify or remove your separately saved full release.
+- **Light mode is the default** for new visitors. A visitor can enable dark mode and the preference is saved.
+- The header and nav are shared across all pages using `_layouts/default.html`.
+- Pages: Home, Research, Publications, CV, Trivia.
+- The ZIP is Jekyll source for GitHub Pages. Extract and upload **the contents** to the root of your `tokaalokda.github.io` repository.
+- If an exhibit folder already exists in the repository, delete `non-gaussian-universe/` when publishing this interim version; GitHub does not delete files just because they are absent from a ZIP upload.
+- For an immediately clickable local preview without Jekyll, use `tokaalokda_matching_design_no_exhibit_v19_2026.html`. It has the same hero and tabs but uses a single-page tab router.

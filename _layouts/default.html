@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en" data-site-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#155799">
+<meta name="description" content="Toka Alokda — academic website">
+<title>{{ page.title | default: site.title | escape }}</title>
+<link rel="stylesheet" href="{{ '/assets/css/preview-match.css' | relative_url }}">
+<script>
+(function(){try{const v=localStorage.getItem('toka-site-theme-matching-v19');if(v==='dark')document.documentElement.dataset.siteTheme='dark';}catch(e){}})();
+</script>
+</head>
+<body>
+<header class="page-header" role="banner">
+  <h1 class="project-name">Toka Alokda</h1>
+  <h2 class="project-tagline">Cosmology PhD student at AIfA, University of Bonn</h2>
+  <button class="site-theme-control" id="site-theme-control" type="button">☾ Dark mode</button>
+</header>
+<nav class="site-nav" aria-label="Website pages"><div class="nav-inner">
+  <a href="{{ '/' | relative_url }}" data-nav="home" {% if page.url == '/' or page.url == '/index.html' %}aria-current="page"{% endif %}>Home</a>
+  <a href="{{ '/research.html' | relative_url }}" data-nav="research" {% if page.url == '/research.html' %}aria-current="page"{% endif %}>Research</a>
+  <a href="{{ '/publications.html' | relative_url }}" data-nav="publications" {% if page.url == '/publications.html' %}aria-current="page"{% endif %}>Publications</a>
+  <a href="{{ '/cvpdf.html' | relative_url }}" data-nav="cv" {% if page.url == '/cvpdf.html' %}aria-current="page"{% endif %}>CV</a>
+  <a href="{{ '/about.html' | relative_url }}" data-nav="trivia" {% if page.url == '/about.html' %}aria-current="page"{% endif %}>Trivia</a>
+</div></nav>
+<main id="main-content" class="main-content" role="main">{{ content }}</main>
+<footer class="site-footer"><span>Toka Alokda</span></footer>
+<script>
+(function(){
+  'use strict';
+  const root=document.documentElement, btn=document.getElementById('site-theme-control');
+  const themeKey='toka-site-theme-matching-v19';
+  function show(mode){
+    root.dataset.siteTheme=mode;
+    btn.textContent=mode==='dark'?'☀  Light mode':'☾  Dark mode';
+    btn.setAttribute('aria-label',mode==='dark'?'Switch website to light mode':'Switch website to dark mode');
+  }
+  show(root.dataset.siteTheme==='dark'?'dark':'light');
+  btn.addEventListener('click',function(){const next=root.dataset.siteTheme==='dark'?'light':'dark';show(next);try{localStorage.setItem(themeKey,next);}catch(e){}});
+})();
+</script>
+</body>
+</html>

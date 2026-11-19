@@ -1,12 +1,8 @@
 ---
 layout: default
+permalink: /about.html
 title: Toka Alokda - Trivia
 ---
-
-<link rel="stylesheet" href="{{ '/assets/css/site-nav.css' | relative_url }}">
-<script defer src="{{ '/assets/js/site-theme.js' | relative_url }}"></script>
-
-
 
 # Trivia
 

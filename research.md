@@ -1,11 +1,8 @@
 ---
 layout: default
+permalink: /research.html
 title: Toka Alokda - Research
 ---
-
-<link rel="stylesheet" href="{{ '/assets/css/site-nav.css' | relative_url }}">
-<script defer src="{{ '/assets/js/site-theme.js' | relative_url }}"></script>
-
 
 <h2 align="center">Exploring the threads between the Early and the Late Universe with Simulations and Machine Learning</h2>
 
